@@ -1,0 +1,15 @@
+List faq = [
+  "First question goes here",
+  "Second question and here is its max",
+  "The third question goes here if it’s too tall then q2 break it like this",
+  "Second question and here is its max",
+  "First question goes here",
+  "Second question and here is its max",
+  "Third question goes here if it’s too tall than q2 break it like this",
+  "Second question and here is its max",
+  "First question goes here",
+  "Second question and here is its max",
+  "Second question and here is its max",
+  "First question goes here",
+  "Second question and here is its max",
+];

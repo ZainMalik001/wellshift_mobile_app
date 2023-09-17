@@ -1,0 +1,1 @@
+List<String> friendList = ["Adnan", "Ali", "Hamza", "Hassan"];
